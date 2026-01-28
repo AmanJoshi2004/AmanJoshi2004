@@ -5,7 +5,7 @@ MS Information Management student at **UIUC (4.0/4.0)** with hands-on experience
 📍 Champaign, IL (Willing to Relocate)  
 📫 **abj4@illinois.edu**  
 🔗 LinkedIn: https://linkedin.com/in/amanbjoshi/  
-💻 GitHub: https://github.com/AmanJoshi2004 :contentReference[oaicite:2]{index=2}
+💻 GitHub: https://github.com/AmanJoshi2004 
 
 ---
 
@@ -68,7 +68,3 @@ MS Information Management student at **UIUC (4.0/4.0)** with hands-on experience
 
 ---
 
-## 🤝 Let’s Connect
-📫 abj4@illinois.edu  
-🔗 https://linkedin.com/in/amanbjoshi/  
-💻 https://github.com/AmanJoshi2004
