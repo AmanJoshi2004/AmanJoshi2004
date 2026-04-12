@@ -78,18 +78,18 @@ Marathon
 ---
 
 ## 🧰 Tech Stack
--Languages/Databases: Python, SQL, R, Java, C, C++, PostgreSQL, MySQL, MongoDB, Redis, ElasticSearch, Firestore  
--AI/ML: scikit-learn, TensorFlow, Keras, PyTorch, XGBoost, LightGBM, HuggingFace Transformers, Sentence-Transformers, NLTK, 
+- Languages/Databases: Python, SQL, R, Java, C, C++, PostgreSQL, MySQL, MongoDB, Redis, ElasticSearch, Firestore  
+- AI/ML: scikit-learn, TensorFlow, Keras, PyTorch, XGBoost, LightGBM, HuggingFace Transformers, Sentence-Transformers, NLTK, 
 spaCy, SHAP, LIME, Computer Vision (EfficientNet, OpenCV)  
--LLMs, GenAI & MLOps: LLM Fine-tuning (LoRA, PEFT), RAG, LangChain, LangGraph, Agentic AI, Prompt Engineering, Vector 
+- LLMs, GenAI & MLOps: LLM Fine-tuning (LoRA, PEFT), RAG, LangChain, LangGraph, Agentic AI, Prompt Engineering, Vector 
 Search (FAISS, ChromaDB, Pinecone), MLflow, Kafka, Docker, Kubernetes, CI/CD, FastAPI, Streamlit  
--Cloud & Data Engineering: AWS (S3, EC2, SageMaker), GCP (Vertex AI, Dataproc), Azure; PySpark, dbt; Power BI, Tableau  
+- Cloud & Data Engineering: AWS (S3, EC2, SageMaker), GCP (Vertex AI, Dataproc), Azure; PySpark, dbt; Power BI, Tableau  
 
 ---
 
 ## 🎓 Education
-- **University of Illinois Urbana-Champaign** — MS Information Management (Aug 2025 – May 2027), **4.0/4.0** 
-- **Pandit Deendayal Energy University** — B.Tech ICT (Aug 2021 – May 2025), **9.32/10** 
+- University of Illinois Urbana-Champaign** — MS Information Management (Aug 2025 – May 2027), **4.0/4.0** 
+- Pandit Deendayal Energy University** — B.Tech ICT (Aug 2021 – May 2025), **9.32/10** 
 
 ---
 
