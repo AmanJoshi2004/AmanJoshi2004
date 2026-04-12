@@ -11,54 +11,79 @@ MS Information Management student at **UIUC (4.0/4.0)** with hands-on experience
 
 ## 🚀 Featured Projects
 
-### 🔎 PCB Defect Detection using Computer Vision (YOLOv8)
-- Trained a **YOLOv8** model on a custom **9-class PCB defect dataset**; achieved **Precision 0.90 / Recall 0.90 / F1 0.89** on the test set. 
-- Improved robustness using data augmentation (rotation, flipping, noise) and **mosaic augmentation** for varied PCB patterns. 
-- Built a real-time inference pipeline with **OpenCV preprocessing + bounding-box visualization**, and created a simple app for image upload and detection.
+### 📦 Demand Forecasting for Inventory Management
+● Engineered an end to end demand forecasting pipeline in Python for large datasets, handling data cleaning, integration, feature 
+preparation, and pipeline ready outputs to support scalable forecasting workflows 
+● Conducted EDA and data visualization to uncover seasonality, trends, and key demand drivers, translating complex patterns into clear 
+insights for business and inventory planning 
+● Evaluated and compared forecasting models including ARIMA, Random Forest, and LSTM using MAE, RMSE, and MAPE, 
+identifying the most effective approach for data driven inventory decision making 
 
 ### 🏥 Healthcare Insurance Analytics & Predictive Pricing System
-- Modeled medical cost and risk drivers using **Linear Regression, Logistic Regression, and XGBoost** for expense prediction and risk classification. 
-- Identified pricing misalignment (**low-risk overcharged ~19%, high-risk underpriced ~83%**) and translated findings into dashboards for decision-making. 
-- Built **Power BI** visuals to communicate model outputs and risk-sensitive pricing insights to stakeholders. 
+● Built predictive healthcare pricing models in R using Linear Regression, Logistic Regression, and XGBoost to analyze medical cost 
+drivers, forecast expenses, and classify customer risk for data driven insurance decision making 
+● Identified major pricing inefficiencies through statistical and machine learning analysis, revealing ~19% overpricing for low risk 
+customers and ~83% underpricing for high risk customers, enabling more accurate and risk sensitive pricing strategies 
+● Developed stakeholder ready Power BI dashboards to translate model outputs into actionable business insights, highlighting pricing 
+misalignment, risk segmentation, and decision impact metrics for strategic planning 
 
-### 📦 Demand Forecasting for Inventory Management
-- Built an end-to-end forecasting pipeline in Python (data cleaning, integration, preprocessing) for inventory management. 
-- Performed EDA to identify seasonality, trends, and demand drivers; created visualizations to communicate insights. 
-- Developed and compared **ARIMA, Random Forest, and LSTM** models; evaluated using **MAE/RMSE/MAPE** to recommend the best approach. 
+### 🔎 PCB Defect Detection using Computer Vision (YOLOv8)
+● Trained and optimized a YOLOv8 based computer vision model on a custom 9 class PCB defect dataset, achieving 0.90 Precision, 
+0.90 Recall, and 0.89 F1 score, demonstrating strong defect detection accuracy in real world inspection scenarios 
+● Improved model robustness and generalization using advanced data augmentation techniques including rotation, flipping, noise 
+injection, and mosaic augmentation, enabling reliable detection across diverse PCB patterns and defect variations 
+● Built a real time defect inspection pipeline using Python, OpenCV, and Streamlit & Flask, integrating image preprocessing, 
+bounding box visualization, and a lightweight upload and detect application for fast and scalable inference 
+
+
 
 ---
 
 ## 💼 Experience
 
-### Space Applications Centre, ISRO — Research Intern (Dec 2024 – Apr 2025)
-- Designed high-density **RF ASIC multilayer PCBs (8-layer)** from provided schematics under strict size constraints (~50 cm × 60 cm). 
-- Used **Keysight ADS (Advanced Design System)** to interpret RF schematic intent and guide RF-aware layout decisions. 
-- Performed **LVS (Layout Versus Schematic)** verification before release for fabrication. 
-- Delivered **5 end-to-end PCB design cycles** (layout → LVS → thermal review → QA checks → fabrication) while coordinating with Thermal and QA teams. 
+### University of Illinois System — Accessibility and Digital Risk Assistant  (Mar 2026 - Present)
+● Developed an AI driven antenna design workflow using Keysight ADS, Python, scikit learn, and XGBoost to predict RF 
+performance from geometry parameters, reducing manual simulations and accelerating design iteration cycles 
+● Built and automated a surrogate modeling pipeline using ADS generated parametric data with feature engineering and model 
+evaluation in Python, enabling fast estimation of gain, bandwidth, and return loss (S11) for efficient design space exploration and 
+rapid antenna prototyping 
 
-### NIT Rourkela — Research Intern (May 2023 – Jul 2023)
-- Designed and optimized RF antennas for 6G using **Ansys (HFSS/EM tools)** via parametric sweeps. 
-- Analyzed effects on antenna performance (S11/return loss, bandwidth, gain) and documented results into a structured design dataset. 
-- Validated simulations using **MATLAB Antenna Toolbox**, comparing MATLAB vs Ansys trends and accuracy. 
+### Space Applications Centre, ISRO — Research Intern (Dec 2024 – Apr 2025)
+● Developed an AI driven antenna design workflow using Keysight ADS, Python, scikit learn, and XGBoost to predict RF 
+performance from geometry parameters, reducing manual simulations and accelerating design iteration cycles 
+● Built and automated a surrogate modeling pipeline using ADS generated parametric data with feature engineering and model 
+evaluation in Python, enabling fast estimation of gain, bandwidth, and return loss (S11) for efficient design space exploration and 
+rapid antenna prototyping 
+
+### Team Kaizen – Shell Eco-Marathon — Head of Coding & Data Optimization (Jul 2022 - Mar 2024)
+● Analyzed telemetry data from 50+ vehicle test runs using Python and Power BI to identify energy loss patterns across speed, throttle, 
+current draw, and voltage, improving efficiency by ~15% from 197 km/kWh to 227 km/kWh 
+● Engineered STM32 Embedded C firmware with HAL and timer based PWM control and drove data based optimization of driving 
+strategies through structured testing and cross functional collaboration, contributing to #1 in India and #5 in Asia at Shell Eco 
+Marathon 
 
 ---
 
-## 🏁 Leadership
+## 🏁 POSITIONS OF RESPONSIBILITY
 
-### TEAM KAIZEN (Shell Eco-Marathon) — Head of Coding (Jul 2022 – Mar 2024)
-- Built vehicle control firmware in **Embedded C using HAL**, taking throttle input and generating motor control output for efficient power delivery.
-- Implemented timer-based **PWM** control and tuning to optimize motor response and energy usage during driving cycles.
-- Improved energy efficiency by **~15%**, achieving **227 km/kWh (141.12 miles/kWh)** in performance runs. 
-- Collaborated with mechanical/electrical teams for integration and troubleshooting, contributing to **#1 in India** and **#5 in Asia** results. 
+### TEAM KAIZEN (Shell Eco-Marathon) — Head of Coding and Data Optimization
+- Led telemetry analysis, control optimization, and performance testing to improve vehicle efficiency and support competition success
+
+### TEAM KAIZEN (Shell Eco-Marathon) — Head of Logistics
+- Managed coordination, operations, and team logistics to ensure smooth execution of project activities and competition readiness 
+
+### Sports Committee, PDEU — Sub Committee Member
+- Supported sports event operations and helped organize the 2022 Fresher’s Cup at PDEU
 
 ---
 
 ## 🧰 Tech Stack
-**Languages:** Python, C, Embedded C, SQL, R, Java, Scala 
-**ML/DL:** YOLOv8, Neural Networks, XGBoost, Regression, Clustering, Decision Trees, Gradient Boosting   
-**CV/Data:** OpenCV, EDA, Feature Engineering, Model Evaluation  
-**Data/Platforms:** Spark, Hadoop, ETL Pipelines, Data Modeling, Data Warehousing, Schema Design  
-**Tools:** Git, Jupyter, Google Colab, Power BI, Tableau, ADS, MATLAB, Ansys 
+**Languages/Databases: Python, SQL, R, Java, C, C++, PostgreSQL, MySQL, MongoDB, Redis, ElasticSearch, Firestore  
+**AI/ML: scikit-learn, TensorFlow, Keras, PyTorch, XGBoost, LightGBM, HuggingFace Transformers, Sentence-Transformers, NLTK, 
+spaCy, SHAP, LIME, Computer Vision (EfficientNet, OpenCV)  
+**LLMs, GenAI & MLOps: LLM Fine-tuning (LoRA, PEFT), RAG, LangChain, LangGraph, Agentic AI, Prompt Engineering, Vector 
+Search (FAISS, ChromaDB, Pinecone), MLflow, Kafka, Docker, Kubernetes, CI/CD, FastAPI, Streamlit  
+**Cloud & Data Engineering: AWS (S3, EC2, SageMaker), GCP (Vertex AI, Dataproc), Azure; PySpark, dbt; Power BI, Tableau  
 
 ---
 
