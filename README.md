@@ -12,9 +12,9 @@ MS Information Management student at **UIUC (4.0/4.0)** with hands-on experience
 ## 🚀 Featured Projects
 
 ### 📦 Demand Forecasting for Inventory Management
-● Engineered an end to end demand forecasting pipeline in Python for large datasets, handling data cleaning, integration, feature 
-preparation, and pipeline ready outputs to support scalable forecasting workflows 
-● Conducted EDA and data visualization to uncover seasonality, trends, and key demand drivers, translating complex patterns into clear 
+- Engineered an end to end demand forecasting pipeline in Python for large datasets, handling data cleaning, integration, feature 
+preparation, and pipeline ready outputs to support scalable forecasting workflows
+- Conducted EDA and data visualization to uncover seasonality, trends, and key demand drivers, translating complex patterns into clear 
 insights for business and inventory planning 
 ● Evaluated and compared forecasting models including ARIMA, Random Forest, and LSTM using MAE, RMSE, and MAPE, 
 identifying the most effective approach for data driven inventory decision making 
